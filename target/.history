@@ -1,0 +1,38 @@
+console
+idea
+gen-idea
+eclipse
+console
+eclipse
+console
+clean
+rebuild
+reload
+compile
+scala
+console
+update
+run
+l
+console
+run
+update
+exit
+console
+eclipse
+"find project -name *.jar" !
+console
+sbt
+"find project -name *.jar" !
+console
+ console-project
+clean
+compile
+console-project
+compile
+eclipse
+run
+gen-idea
+run
+gen-idea
+run
